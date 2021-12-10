@@ -1,1 +1,1 @@
-# SeleniumPractise
+# SeleniumPractice
